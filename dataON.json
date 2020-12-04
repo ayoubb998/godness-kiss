@@ -1,0 +1,592 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerFacebook": "652578952286237_652618645615601",
+        "InterstitialFacebook": "652578952286237_652617258949073",
+        "NativeFacebook": "652578952286237_652611575616308"
+      }
+    ],
+    "items": [
+      {
+        "title": "GODDNESS KISS O.V.E",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/1/1.jpg"
+      },
+      {
+        "title": "Setting up your team",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/2/2.jpg"
+      },
+      {
+        "title": "pilots :",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/3.jpg"
+      },
+      {
+        "title": "Getting more pilots : ",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/4/4.jpg"
+      },
+      {
+        "title": "Leveling pilots ",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/5/5.jpg"
+      },
+      {
+        "title": "Promoting pilots",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/6/6.jpg"
+      },
+      {
+        "title": "Increasing pilot’s affection",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/7/7.jpg"
+      },
+      {
+        "title": "Costumes",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/8/8.jpg"
+      },
+      {
+        "title": "Doing achievements and Daily missions",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/9/9.jpg"
+      },
+      {
+        "title": "Death Match",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/10/10.jpg"
+      },
+      {
+        "title": "Arena",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/11/11.jpg"
+      },
+      {
+        "title": "Upgrade units",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/12/12.jpg"
+      },
+      {
+        "title": "Using the Bank",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/13/13.jpg"
+      },
+      {
+        "title": "Carnival",
+        "image": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/14/14.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#f32323",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Goddness Kiss O.V.E : ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#0c0b0b",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/1/1.jpg",
+        "text": "Goddess kiss OVE tier list, Goddess kiss OVE is the latest game that was published by Dear my cat and Abyssrium game series. Goddess kiss OVE is all about how the girls hunt down the monsters that are trying to attack their place. The characters can be chosen with the help of Goddess kiss OVE tier list. The game is based on the goddess kiss OVE reroll guide and the combat between the girls and the monster.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#231c1c",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/2/team%201.jpg",
+        "text": "This game is one of those games where each pilot is very useful for the late game depending on how you set up your team. There are only three types of classes for each pilot:\n\nATK – Usually has more ATK than the other classes, lowest DEF than the other classes\nDEF – Usually has more DEF than the other classes, lowest ATK, and MOB than the other classes\nSUP – Heals unit/units during battle, also debuff enemy units\nBefore any battle, you can set up your main team and backup team. Usually, I would put at least 1 or 2 DEF units and the rest are all ATK units for the World Map stages. The reason is that usually, most enemy/boss units will destroy your entire team in less than 7 turns so I would go for the high damage team setup. But it is up to you on how you want to set up your team.\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#211919",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/2/teams%202.jpg",
+        "text": "You will also get to see your overall team’s power and MOB together with the enemy’s team power and MOB. MOB is basically mobility which the team with has the highest overall MOB will get to attack first so take note of that. Another thing to take note is the difficulty below the bottom right of the screen. If the difficulty is easy or normal, it means that your team’s power is above the enemy’s team power.\n I would recommend strengthening your team if your team’s power is below the enemy’s team power for every stage.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#2b2222",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/agata.jpg",
+        "text": "Agatha : \nRole : Tank \nTier: S Tier(At max: – A good tank character, her lethal is AoE, Passive makes her invulnerable. Base HP, DEF, and RES. stats are great). Best tank class character in the game!",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#2a2020",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/SOPHIA.jpg",
+        "text": "SOPHIA : \nRole: Healer&nbsp\nTier: S Tier(the best healer in the game with healing and support skills. Some 3-star characters also possess healing skills – scroll down to check 3-star units). ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#241717",
+        "style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/CLEO.jpg",
+        "text": "Cloe :\n is the new character in the Goddess Kiss OVE game that made her debut in mid-October, 2020 patch update\nRole: Attacker\nTier: S Tier ~ A+ Tier(Mid- row position – like M. Her base ATK and HP stats are slightly lower than M. DEF/RES. is better than M. Her basic attack does single DMG to x1 enemy unit while M’s basic attack hits x3 units. Although, there is a great different b/w skill DMG. Her lethal is powerful; AoE; x5 targets. Passive boosts her ATK). ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#221616",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/EMILY.jpg",
+        "text": "EMILY : \nRole: Attacker&nbsp\nTier: S Tier (Base HP is similar to Amica. Base ATK and DEF is slightly better than Amica. Her lethal skill is AoE; targets x5 enemies. Passive is single-target; massive DMG). ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#362626",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/KAORU.jpg",
+        "text": "kAORU\nRole: Tank\nPassive: at the start of the battle, increases defense for all friendly target in the front row by 42.5% and increases the resistance of all allies in the front row by 42.5%",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#251b1b",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/ATKER.jpg",
+        "text": "atker M :\nRole: Attacker\nTier: S Tier (Mid Row position. Her basic targets x3 enemies. Her lethal is AoE. Passive targets x3 enemies; inflict attack damage). DEF and RES. is low – so make sure to have a good tanky character in the front). A great mid-row AoE DMG Dealer.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1e1515",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/CHEVALIER.jpg",
+        "text": "Chevalier : \nRole: Mage\nLethal: inflicts 346.5% of MAGIC DMG on the enemy + makes the enemy receive more damage from Dark by 15% of x4 seconds; x5 target\nPassive: at the start of the battle, increase the magic of all allies in the back row by 52.5%; x5 target",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#201818",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/CYNTHIA.jpg",
+        "text": "Cyntha : \nRole: Mage\nLethal: inflicts 366.5% of MAGIC DMG on the enemies + bonus attack damage\nPassive: inflicts 399.5% of MAGE DMG to target with the lowest resistance + bonus attack damage",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#231717",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/3/LITERA.jpg",
+        "text": "Litera : \nRole: Attacker\nLethal: 607% of ATK DMG, increases target’s DMG taken from Water by 46.5%\nPassive: 603.5% of ATK DMG",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#251818",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "15",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/4/get1.jpg",
+        "text": "There are a lot of ways to get more pilots in the game but I will name some of the notable ones. I recommend doing the World Map stages as far as you can as completing a world with 60 stars will automatically unlock a pilot. You can also use the premium treasure (Treasure) which requires diamonds to obtain a 3-star pilot but the probability of obtaining one 3-star pilot is very rare with a chance of 3.4%.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#231a1a",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/4/new%20piloot.jpg",
+        "text": "I would suggest farming your diamonds until you have 1350 to open the premium treasure 10 times for 2 reasons. Firstly, opening premium treasure 10 times usually increases the chances to obtain a 3-star pilot. Secondly, even if you do not obtain any pilot, you will obtain a treasure point which after obtaining 10 treasure points you will be guaranteed a pilot for free.\nThere are also pilot medals in the game which you can collect from boss stages or from the treasure which if you collect the required amount of pilot medals, you will be able to unlock that pilot.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#281818",
+        "style": "ormal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/5/1%20leveli.jpg",
+        "text": "You can level up a pilot using training tickets to increase their overall power. Each type of training ticket will give different amount of EXP with the Red ones giving the lowest EXP and the Gold ones giving the highest EXP to a pilot.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#281515",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/5/5.jpg",
+        "text": " The red and green training tickets are easily obtainable from stages in the World Map which they give a lot so use those to level up all your pilots. You can only level up the pilot up to the current commander level.\n",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#201414",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/6/1%20PROMOTION.jpg",
+        "text": "Promoting a pilot will not only boost her overall power, it will also gain an extra star rarity by 1. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#241515",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/6/2%20PROMTION.jpg",
+        "text": "Promoting a pilot requires a number of pilot medals. If you want to know where these drop from that pilot, you just tap the plus sign below and it will show you the available stages that you can obtain.\n",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#2a1e1e",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/7/1%20AFFECTION.jpg",
+        "text": "You can send your pilots gifts to increase their affection tier. Each type of gift will give different amount of affection EXP in which gaining an affection tier of a pilot will give a bonus stat to the pilot. Some affection tiers will also unlock Scenarios for that pilot. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#211414",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/7/2%20AFFECTION.jpg",
+        "text": "Gifts can be obtained by doing the daily battle missions which are actually quite easy to do.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#231010",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/8/Costumes.jpg",
+        "text": "You can change the appearance of your pilot by buying costumes using diamonds. Each costume will have different bonus stats so I would suggest choosing wisely if you only planned of just getting the best costume in terms of stats.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#231515",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/8/star.jpg",
+        "text": " I would not recommend buying costumes in the early stages of the game as these required alot of diamonds.",
+        "isNative": "true"
+      }
+    ],
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#281717",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/9/Doing.jpg",
+        "text": "Always do the daily missions as these missions are easy to do and will reset daily which they give commander EXP, training tickets and Gold. It is also the fastest way to level up your commander level other than spamming World Map stages.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#241111",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/9/Leveling.jpg",
+        "text": " After that, you can do the achievements which usually gives diamonds and even pilot medals. If you complete at least 10 daily missions or achievements, you will get a bonus pilot medal although it only drops Ariel medals.",
+        "isNative": "true"
+      }
+    ],
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#211212",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/10/Death%20Match.jpg",
+        "text": "If you have at least 6 pilots, you can actually use the Scout feature to automatically clear stages based on how many MOB you have. It is very useful during the early game where completing a Death Match is impossible to complete until you are very high level. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#281616",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/10/10.jpg",
+        "text": "Clearing a Death Match stage will drop coins which can be used at the shop to exchange for pilot medals. If you are a VIP, you will also obtain an extra reward like training tickets.\n",
+        "isNative": "true"
+      }
+    ],
+    "content11": [
+      {
+        "ordered": "image_text",
+        "color": "#2b1313",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "15",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/11/1%20fight.jpg",
+        "text": "You can also try out battling other players/bots through the Arena. You can only battle up to 3 players/bots per day which you can reset using diamonds if you want to continue battling more players/bots. Winning a match increases a tier and you will be rewarded with Gold and Ammo (Energy).",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#2a1616",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/11/2%20fight.jpg",
+        "text": " You will also be rewarded with the number of diamonds and medals depending on the tier that you are currently on at the end of that week. You can also obtain arena coins from matches which can be exchanged for pilot medals.\n",
+        "isNative": "true"
+      }
+    ],
+    "content12": [
+      {
+        "ordered": "image_text",
+        "color": "#281616",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/12/unit.jpg",
+        "text": "There are 7 ways to increase your unit’s power:\n\nUpgrading units\nLeveling unit skills\nLeveling pilots\nPromoting pilots\nIncreasing pilot’s affection\nUsing costumes\nAttaching Ooparts",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#261313",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/12/unt%20µ.jpg",
+        "text": "You can upgrade a unit to increase their overall stats and unlocking their skills. There are five tiers, from gray (lowest) to gold (highest). To upgrade a unit, you will need the required materials, usually can be obtained from stages in the World Map. To find out which stage the particular material drops, you just need to tap the material icon and it will show you the stages that the material drops.",
+        "isNative": "true"
+      }
+    ],
+    "content13": [
+      {
+        "ordered": "image_text",
+        "color": "#1b0e0e",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/13/Daily%20Logins.jpg",
+        "text": "If you want to obtain Gold a lot more quickly other than purchasing Gold using real money, you can try your luck by using the Bank.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1e0f0f",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/13/13.jpg",
+        "text": " You can either use 10 diamonds to roll one time and 100 diamonds to roll 10 times. The multiplier that you land after it stops rolling will multiply the number of Gold at the Default Rate which is the amount of Gold that you earned. I would suggest using the bank if you really need Gold to upgrade all your pilot skills or exchange for items quickly.",
+        "isNative": "true"
+      }
+    ],
+    "content14": [
+      {
+        "ordered": "image_text",
+        "color": "#231010",
+        "style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/14/1.jpg",
+        "text": "You can either exchange Gold, medals or diamonds for items like unit cores or specific pilot medals if you want through the Carnival. There are also Carnival missions which you can complete for various rewards. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#260d0d",
+        "style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://raw.githubusercontent.com/ayoubb998/godness-kiss/main/14/2.jpg",
+        "text": "Some are just level rewards while others are the game gives you a special offer where you can use real money to buy packages like diamonds after clearing a zone. If you want to spend money on this game, the commander level up package is a good option since it gives more diamonds than just purchasing diamonds.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
